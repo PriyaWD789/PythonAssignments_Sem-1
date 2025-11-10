@@ -1,1 +1,1 @@
-# PythonAssignments_Sem-1
+This repository is primarily about the python assignments assigned during the sem-1 period.
